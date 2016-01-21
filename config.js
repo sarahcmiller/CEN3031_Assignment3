@@ -4,8 +4,8 @@
 
 module.exports = {
   db: {
-    uri: 'mongodb://testuser:testuser@ds047315.mongolab.com:47315/cenclasstestassignment3'
-    //uri: 'mongodb://sarahandrobbie:root@ds047085.mongolab.com:47085/cen3031_8b'
+    //uri: 'mongodb://testuser:testuser@ds047315.mongolab.com:47315/cenclasstestassignment3'
+    uri: 'mongodb://sarahandrobbie:root@ds047085.mongolab.com:47085/cen3031_8b'
   }
 };
 
